@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**mentik/mentik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mentik.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I'm working on Quant Reports as a Full Stack developer.
+- 🔭 I'm currently learning software engineering principles and paradigms.
+- 🤩 I'm proficient in Python, R, and C/C++ for backend capabilities.
+- 🖼️ I'm proficient in HTML, CSS, and JavaScript for frontend capabilities.
+- 🗃️ I'm proficient in SQL, numpy, pandas, and tidyverse for data manipulation capabilities.
+- 🛫 I have proven experience in designing and collaborating to build web apps.
+- 💻 Django, Rserve API, and WordPress are my proven stacks that I have used to build the most.
+- 🌱 I'm interested in blockchain and Bitcoin.
+- 👯 I'm looking to collaborate on open-source projects.
+- 🌳 I enjoy spending time in nature.
